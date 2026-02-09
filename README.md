@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Johnstone Gogo
-
-### Frontend UI and Web Designer focused on modern, responsive design
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=600&size=33&pause=1000&vCenter=true&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Johnstone+Gogo;Frontend+UI+and+Web+Designer+)](https://git.io/typing-svg)
 
 <img src="https://github.com/JohnstoneGogo/profile-pic/blob/main/self%20love.JPG" alt="Johnstone Gogo" width="150" height="150" style="border-radius: 50%;" />
 
@@ -92,11 +90,9 @@ I am a Frontend UI and Web Designer dedicated to building visually appealing and
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JohnstoneGogo&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JohnstoneGogo&theme=onedark&column=7&margin-w=15&margin-h=15)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnstoneGogo&layout=compact&theme=radical&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnstoneGogo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Johnstone%20Gogo&theme=radical)](https://git.io/streak-stats)
 
 <!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
 
