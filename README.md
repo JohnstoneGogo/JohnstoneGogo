@@ -1,8 +1,9 @@
-<div align="center">
+![My Avatar](https://github.com/JohnstoneGogo/profile-pic/blob/main/github-header-banner.png) <br>
+
+<div style = "display: flex; align-items: center">
+<img src="https://github.com/JohnstoneGogo/profile-pic/blob/main/self%20love.JPG" alt="Johnstone Gogo" width="150" height="150" style="border-radius: 50%;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=600&size=33&pause=1000&vCenter=true&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Johnstone+Gogo;Frontend+UI+and+Web+Designer+)](https://git.io/typing-svg)
-
-<img src="https://github.com/JohnstoneGogo/profile-pic/blob/main/self%20love.JPG" alt="Johnstone Gogo" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
